@@ -11,6 +11,11 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=great-gatsby" alt="ShreyashSomvanshi" />
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ShreyashSomvanshi/count.svg" />
+</p>
+
 
 <!---
 ShreyashSomvanshi/ShreyashSomvanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
