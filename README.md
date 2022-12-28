@@ -1,3 +1,8 @@
+<a href="https://linkedin.com/in/shretash-somvanshi-859893215">
+  <img align="right" alt="Shreyash Somvanshi LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+</a>
+
+
 - 👋 Hi, I’m @ShreyashSomvanshi
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning.
