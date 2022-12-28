@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/shretash-somvanshi-859893215">
+<a href="https://linkedin.com/in/shreyash-somvanshi-859893215">
   <img align="right" alt="Shreyash Somvanshi LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
 
