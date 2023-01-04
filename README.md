@@ -18,8 +18,7 @@
 
 ---
 
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi
-&layout=compact&show_icons=true&theme=great-gatsby" /></center>
+<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=vue" /></center>
 
 ---
 
