@@ -14,17 +14,29 @@
 ---
 
 ## 📈 GitHub Stats
-<div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi
-&show_icons=true&theme=great-gatsby&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi
-&layout=compact&show_icons=true&theme=great-gatsby" />
-</div>
+<center> <img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=great-gatsby&count_private=true" alt="ShreyashSomvanshi" /></center>
+
+---
+
+<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi
+&layout=compact&show_icons=true&theme=great-gatsby" /></center>
+
+---
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ShreyashSomvanshi/count.svg" />
 </p>
+
+
+<!---
+<div>
+
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi
+&show_icons=true&theme=great-gatsby&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi
+&layout=compact&show_icons=true&theme=great-gatsby" />
+</div> --->
 
 
 <!---
