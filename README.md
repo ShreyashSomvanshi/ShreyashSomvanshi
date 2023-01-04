@@ -14,11 +14,11 @@
 ---
 
 ## 📈 GitHub Stats
-<center> <img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=great-gatsby&count_private=true" alt="ShreyashSomvanshi" /></center>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=great-gatsby&count_private=true" alt="ShreyashSomvanshi" /></p>
 
 ---
 
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=vue" /></center>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=vue" /></p>
 
 ---
 
