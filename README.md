@@ -9,7 +9,7 @@
 
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&column=8)](https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&column=8)
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&column=8)](https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&column=8)</p>
 
 ---
 
