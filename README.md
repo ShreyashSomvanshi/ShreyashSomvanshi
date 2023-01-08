@@ -1,11 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axg-coder&label=Profile%20views&color=0e75b6&style=flat" alt="axg-coder" /> </p>
+---
 
 - 👋 Hi, I’m @ShreyashSomvanshi
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: shreyashsomvanshi03@gmail.com
-
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=great-gatsby" alt="ShreyashSomvanshi" /> -->
 
 
 ## 🏆 GitHub Trophy
@@ -23,12 +23,16 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashSomvanshi&" alt="ShreyashSomvanshi" /></p>
+
+---
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ShreyashSomvanshi/count.svg" />
 </p>
 
-
+---
 <!---
 <div>
 
