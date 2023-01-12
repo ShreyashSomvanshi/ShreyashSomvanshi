@@ -15,7 +15,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=great-gatsby&count_private=true" alt="ShreyashSomvanshi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=vue&count_private=true" alt="ShreyashSomvanshi" /></p>
 
 ---
 
