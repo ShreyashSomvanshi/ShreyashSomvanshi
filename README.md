@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @ShreyashSomvanshi
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Open Source Projects.
 - 📫 How to reach me Email: shreyashsomvanshi03@gmail.com
 
 
