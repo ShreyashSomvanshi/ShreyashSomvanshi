@@ -22,7 +22,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=vue" /></p>
 
 ---
-
+## 📈 GitHub Streak
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashSomvanshi&" alt="ShreyashSomvanshi" /></p>
 
 ---
