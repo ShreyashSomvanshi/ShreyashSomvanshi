@@ -23,7 +23,8 @@
 
 ---
 ## 📈 GitHub Streak
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashSomvanshi&" alt="ShreyashSomvanshi" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashSomvanshi&" alt="ShreyashSomvanshi" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShreyashSomvanshi&theme=python-dark&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
