@@ -15,16 +15,16 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=vue&count_private=true" alt="ShreyashSomvanshi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=midnight-purple&count_private=true" alt="ShreyashSomvanshi" /></p>
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=vue" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=midnight-purple" /></p>
 
 ---
 ## 📈 GitHub Streak
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashSomvanshi&" alt="ShreyashSomvanshi" /></p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShreyashSomvanshi&theme=python-dark&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShreyashSomvanshi&theme=midnight-purple&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
