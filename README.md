@@ -13,7 +13,7 @@
 
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&column=7)](https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
 
 ---
 
@@ -26,6 +26,10 @@
 
 
 ---
+
+
+[![ShreyashSomvanshi's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShreyashSomvanshi&custom_title=ShreyashSomvanshi's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=a600f9&point=0079fa&area=true&hide_border=true)](https://github.com/ShreyashSomvanshi/github-readme-activity-graph)
+
 ---
 
 <p align="center"> 
