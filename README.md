@@ -10,6 +10,20 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=midnight-purple&border_radius=30&count_private=true" alt="ShreyashSomvanshi" /></p>
+
+
+| <a href="https://github.com/ShreyashSomvanshi/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ShreyashSomvanshi&theme=midnight-purple&border_radius=30&date_format=j%20M%5B%20Y%5D)" alt="Shreyash's github streak" /></a> | <a href="https://github.com/ShreyashSomvanshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=midnight-purple&border_radius=30"/></a> |
+| ------------- | ------------- |
+
+
+
+
+---
+
 <details>
   <summary> <h2> 🏆 GitHub Trophies </h2> <h6><i> Click here to view! </i></h6> </summary>
 
@@ -19,18 +33,11 @@
 
 ---
 
+  
+
 <details>
-<summary> <h2> 📈 GitHub Stats </h2> <h6><i> Click here to view! </i></h6> </summary>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=midnight-purple&border_radius=30&count_private=true" alt="ShreyashSomvanshi" /></p>
-
-
-| <a href="https://github.com/ShreyashSomvanshi/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ShreyashSomvanshi&theme=midnight-purple&border_radius=30&date_format=j%20M%5B%20Y%5D)" alt="Shreyash's github streak" /></a> | <a href="https://github.com/ShreyashSomvanshi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashSomvanshi&layout=compact&show_icons=true&theme=midnight-purple&border_radius=30"/></a> |
-| ------------- | ------------- |
-
-
----
-
+<summary> <h2> 📈 GitHub Activity Graph </h2> <h6><i> Click here to view! </i></h6> </summary>
+  
 
 [![ShreyashSomvanshi's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShreyashSomvanshi&custom_title=ShreyashSomvanshi's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=a600f9&point=0079fa&area=true&hide_border=true)](https://github.com/ShreyashSomvanshi/github-readme-activity-graph)
 
@@ -47,7 +54,7 @@
 
 
 ---
----
+
 
 
 <!---
