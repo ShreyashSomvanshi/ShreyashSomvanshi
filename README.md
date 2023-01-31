@@ -10,7 +10,7 @@
 
 ---
 
-## 📈 GitHub AStats
+## 📈 GitHub Stats
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=midnight-purple&border_radius=30&count_private=true" alt="ShreyashSomvanshi" /></p>
