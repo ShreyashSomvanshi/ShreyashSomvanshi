@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyashSomvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyashSomvanshi" /> </p> <br> <br/>
 
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi👋!+I'm+Shreyash+Somvanshi+%3C3;Welcome+to+my+profile!" alt="Title"></img>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&duration=3500&pause=800&color=F7540C&center=true&vCenter=true&width=435&height=60&lines=Hi%F0%9F%91%8B%2C+I+am+Shreyash+Somvanshi+;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 ---
 
