@@ -18,7 +18,38 @@
 
 <p align="center">
   
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <!-- ### 🛠 &nbsp;Tech Stack -->
+<!-- credits: saurav jain -->
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
+![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
+![Qiskit](https://img.shields.io/badge/Qiskit-05122A?style=flat&logo=Qiskit)&nbsp;
+![ML/AI](https://img.shields.io/badge/-ML/AI-05122A?)&nbsp;
+![NumPy](https://img.shields.io/badge/Numpy-05122A?&style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-05122A?&style=flat&logo=pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?&style=flat&logo=matplotlib)&nbsp; 
+![Seaborn](https://img.shields.io/badge/Seaborn-05122A?&style=flat&logo=seaborn)&nbsp; 
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp; 
+![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras)&nbsp; 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp; 
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp; 
+![Streamlit](https://img.shields.io/badge/Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
+![mlflow](https://img.shields.io/badge/Mlflow-05122A?style=flat&logo=mlflow)&nbsp;
+![HTML-5](https://img.shields.io/badge/html5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![LaTeX](https://img.shields.io/badge/Latex-05122A?style=flat&logo=latex)&nbsp;
+![Kali](https://img.shields.io/badge/Kali-05122A?style=flat&logo=kalilinux)&nbsp;
+
+  
+<!--   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
   ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
@@ -42,7 +73,15 @@
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   
-</p>     
+</p>      -->
+
+---
+
+### 📫 &nbsp; How to reach me:
+<!-- 
+<a href="https://twitter.com/sauain/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp; -->
+<a href="https://linkedin.com/in/shreyash-somvanshi-859893215/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:shreyashsomvanshi03@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
 <h2 align="center">Portfolio 👩‍💻</h2>
