@@ -89,9 +89,10 @@
 <p align="center">
   
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&link=https://github.com/ShreyashSomvanshi)](https://www.kaggle.com/shreyashsomvanshi)
-  [![MachineHack](https://img.shields.io/badge/Machinehack-bfafb2?style=for-the-badge&logo=machinehack&logoColor=white)](https://machinehack.com/user/63e66c416018ef32de78c4d0)
+  [![MachineHack](https://img.shields.io/badge/Machinehack-bfafb2?style=for-the-badge&logo=hashnode&logoColor=white)](https://machinehack.com/user/63e66c416018ef32de78c4d0)
   [![GITHUB](https://img.shields.io/badge/github-4d5d53.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ShreyashSomvanshi)](https://github.com/ShreyashSomvanshi)
   [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shreyash_Somvanshi)
+  [![R-Pubs](https://img.shields.io/badge/R--Pubs-%230077B5.svg?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/ShreyashSomvanshi)
   
 </p>
 
