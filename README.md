@@ -24,7 +24,6 @@
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
 ![Qiskit](https://img.shields.io/badge/Qiskit-05122A?style=flat&logo=Qiskit)&nbsp;
-![ML/AI](https://img.shields.io/badge/-ML/AI-05122A?)&nbsp;
 ![NumPy](https://img.shields.io/badge/Numpy-05122A?&style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?&style=flat&logo=pandas)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?&style=flat&logo=matplotlib)&nbsp; 
@@ -43,6 +42,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/Latex-05122A?style=flat&logo=latex)&nbsp;
