@@ -1,14 +1,48 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyashSomvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyashSomvanshi" /> </p> <br> <br/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&duration=3500&pause=800&color=F7540C&center=true&vCenter=true&width=435&height=60&lines=Hi%F0%9F%91%8B%2C+I+am+Shreyash+Somvanshi+;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
----
+# Hi there, I'm Shreyash 👋
 
-- 👋 Hi, I’m @ShreyashSomvanshi
-- 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on any Machine Learning, Data Science , NLP Open Source Projects.
-- 📫 How to reach me Email: shreyashsomvanshi03@gmail.com
+Aspiring Data Scientist | Machine Learning & AI Engineer | Fresher
+
+I'm a dedicated and passionate individual aiming to make a mark in the world of data science and machine learning. With a strong academic background and an insatiable curiosity, I'm committed to delivering data-driven insights and innovative solutions.
+
+## 🌱 Journey
+
+- Pursuing (B.E.) Bachelors in Artificial Intelligence and Data Science Engineering from Pune University.
+- Completed specialized online courses in Machine Learning and Data Science.
+- Actively seeking opportunities to contribute to real-world projects.
+
+## 💼 Skills
+
+- **Programming**: Python
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+- **Data Analysis**: Pandas, NumPy
+- **Data Visualization**: Matplotlib, Seaborn
+- **Version Control**: Git
+
+## 🚀 Projects
+
+> [Course-Recommendation-System](https://github.com/ShreyashSomvanshi/Course-Recommendation-System)
+
+> [E.V. Market Segmentation](https://github.com/ShreyashSomvanshi/E.V.-Market-Segmentation)
+
+> [Sentiment-Analysis-NLP ](https://github.com/ShreyashSomvanshi/Sentiment-Analysis-NLP)
+
+
+## 🌐 Let's Connect
+
+- LinkedIn: [Shreyash Somvanshi](https://linkedin.com/in/shreyash-somvanshi-859893215)
+- Portfolio: [shreyashsomvanshi.co](https://shreyashsomvanshi.co)
+
+## 📧 Contact
+
+You can reach me at [shreyashsomvanshi03@gmail.com](mailto:shreyashsomvanshi03@gmail.com).
+
+> "In data, I trust. In learning, I grow. In collaboration, we innovate."
+
+Looking forward to embarking on a journey of continuous learning and impactful projects in the realm of data science and machine learning.
+
+
 
 ---
 
@@ -96,17 +130,10 @@
   
 </p>
 
-
-
-<!-- <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
- -->
- 
 ---
-
-## 📈 GitHub Stats
-
-
+<details>
+  <summary> <h4> 📈 GitHub Stats </h4> </summary>
+    
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=midnight-purple&border_radius=30&count_private=true" alt="ShreyashSomvanshi" /></p>
 
 
@@ -114,36 +141,12 @@
 | ------------- | ------------- |
 
 
-
-
----
-
-<details>
-  <summary> <h2> 🏆 GitHub Trophies </h2> <h6><i> Click here to view! </i></h6> </summary>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShreyashSomvanshi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
-</details>
-
-
----
-
-  
-
-<details>
-<summary> <h2> 📈 GitHub Activity Graph </h2> <h6><i> Click here to view! </i></h6> </summary>
-  
-
-[![ShreyashSomvanshi's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShreyashSomvanshi&custom_title=ShreyashSomvanshi's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=a600f9&point=0079fa&area=true&hide_border=true)](https://github.com/ShreyashSomvanshi/github-readme-activity-graph)
-
-<!-- </details> -->
-  
   
 ---
-
+<!--
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/ShreyashSomvanshi/count.svg" />
-</p>
-
+</p> -->
 </details>
 
 
