@@ -104,3 +104,6 @@ Looking forward to embarking on a journey of continuous learning and impactful p
 </details>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyashSomvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyashSomvanshi" /> </p>
+
+---
