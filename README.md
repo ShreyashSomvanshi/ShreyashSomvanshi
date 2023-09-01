@@ -19,7 +19,7 @@ I'm a dedicated and passionate individual aiming to make a mark in the world of 
 - **Data Analysis**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Version Control**: Git
-- **Cloud**: Microsoft Azure, Google Cloud Platform
+- **Cloud**: Microsoft Azure, Google Cloud Platform, OCI
 
 ### 🚀 Projects
 
@@ -91,7 +91,7 @@ Looking forward to embarking on a journey of continuous learning and impactful p
 </p>
 
 ---
-<details>
+<!-- <details>
   <summary> <h3> 📈 GitHub Stats </h3> </summary>
     
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShreyashSomvanshi&show_icons=true&theme=midnight-purple&border_radius=30&count_private=true" alt="ShreyashSomvanshi" /></p>
@@ -101,7 +101,7 @@ Looking forward to embarking on a journey of continuous learning and impactful p
 | ------------- | ------------- |
 
 
-</details>
+</details> -->
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyashSomvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyashSomvanshi" /> </p>
